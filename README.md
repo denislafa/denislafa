@@ -1,16 +1,18 @@
-## Hi there 👋
+# QA Portfolio: [Денис]
 
-<!--
-**denislafa/denislafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я начинающий тестировщик ПО, недавно закончивший курс "Тестирование ПО с нуля" от Артёма Русова.
 
-Here are some ideas to get you started:
+## 🛠️ Основные навыки
+- Ручное тестирование веб-приложений
+- Составление тест-кейсов
+- Баг-трекинг
+- Работа с DevTools, Postman
+- Основы SQL и Git
+- [Подробнее о навыках](/skills.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Сертификаты
+- [Тестирование ПО с нуля](assets/certificate.jpg)
+
+## 📫 Контакты
+- Email: denislafa@gmail.com
+- Telegram: den_laf
